@@ -11,6 +11,6 @@ TODO
 * item 4
 
 
-1 item one
-1 item two
-1 item three
+1. item one
+1. item two
+1. item three
